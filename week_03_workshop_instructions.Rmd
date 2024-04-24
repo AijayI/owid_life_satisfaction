@@ -2,7 +2,7 @@
 title: "R Masterclass Workshop Instructions"
 subtitle: "Interactive Plots and Web Publishing with RMarkdown"
 author: "The GRAPH Courses Team"
-output: prettydoc::html_pretty
+output: 
 ---
 
 ## **Workshop Goal**
