@@ -63,7 +63,7 @@ happy %>%
     color = ~`Happiness: Happy (aggregate)`,
     locations = ~Code,
     text = ~Country,
-    frame = ~Year, colors = "YlGn"
+    frame = ~Year, colors = "purple"
   ) %>% 
   
   colorbar(title = NULL)
